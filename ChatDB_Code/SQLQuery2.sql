@@ -1,0 +1,4 @@
+﻿CREATE TABLE MyTable (
+    Id INT PRIMARY KEY IDENTITY,
+    Message NVARCHAR(1000),
+);
