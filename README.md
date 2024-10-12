@@ -33,23 +33,21 @@ A client-server based chat application developed in Java, allowing users to comm
 ## Steps to Run
 Clone the repository:
 
-git clone [https://github.com/Ahmed-Hesham-F5/Chat-Application.git](https://github.com/Ahmed-Hesham-F5/Chat-Application.git)
+-git clone [https://github.com/Ahmed-Hesham-F5/Chat-Application.git](https://github.com/Ahmed-Hesham-F5/Chat-Application.git)
 
-Import the project into your preferred IDE (e.g., NetBeans, IntelliJ).
+-Import the project into your preferred IDE (e.g., NetBeans, IntelliJ).
 
 Set up the MS SQL Server:
 
-Create a new database for message storage.
+-Create a new database for message storage.
 
-Update the database connection details in the Server class.
+-Update the database connection details in the Server class.
 
-Run the Server application first:
+-Run the Server application first:
 
-This will initialize the server and start listening for client connections.
+-This will initialize the server and start listening for client connections.
 
-Run the Client application:
-
-Multiple clients can connect to the server and begin chatting in real time.
+-Run the Client application
 
 ## Usage
 -Sending Messages: Type your message in the chat box and press "Send" to deliver it to other users.
