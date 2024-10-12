@@ -33,10 +33,6 @@ A client-server based chat application developed in Java, allowing users to comm
 ## Steps to Run
 Clone the repository:
 
-bash
-
-Copy code
-
 git clone [https://github.com/Ahmed-Hesham-F5/Chat-Application.git](https://github.com/Ahmed-Hesham-F5/Chat-Application.git)
 
 Import the project into your preferred IDE (e.g., NetBeans, IntelliJ).
